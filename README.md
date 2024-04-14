@@ -10,17 +10,19 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Junior%20DevOps%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
+## 🚀 About Me
+
 I am Ibrahim Mohamed Zaghloul, a driven professional with a passion for technology, particularly in the realms of DevOps, cloud, virtualization, and security.
 
 
-## 🔗Contact Me
+## 🔗 Contact Me
 
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mahmoudmayar251@gmail.com)](mailto:ebrahem.mohamedzaghloul@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ibrahim-mohamed-zaghloul/)](https://www.linkedin.com/in/ibrahim-mohamed-zaghloul/)
 
 
 
-### 🛠 &nbsp;Tech Stack
+## 🛠 Tech Stack
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
