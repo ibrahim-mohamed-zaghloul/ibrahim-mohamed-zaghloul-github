@@ -37,9 +37,8 @@ I am Ibrahim Mohamed Zaghloul, a driven professional with a passion for technolo
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-
-
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Argo CD](https://img.shields.io/badge/argo%20cd-%23F17070.svg?style=for-the-badge&logo=argo&logoColor=white)
 
 <!--
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahim-mohamed-zaghloul-github&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
