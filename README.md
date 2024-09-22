@@ -39,6 +39,9 @@ I am Ibrahim Mohamed Zaghloul, a driven professional with a passion for technolo
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Argo CD](https://img.shields.io/badge/argo%20cd-%23F17070.svg?style=for-the-badge&logo=argo&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-%230F1689.svg?style=for-the-badge&logo=helm&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 <!--
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ibrahim-mohamed-zaghloul-github&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
